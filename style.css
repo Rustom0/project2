@@ -1,0 +1,30 @@
+body{
+    font-size: 0.9rem;
+    background-color: rgb(203, 228, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    padding: 15px;
+    background-color: white;
+    width: 90%;
+    border-radius: 20px;
+    max-width: 300px;
+    text-align: center;
+}
+img{
+    width: 98%;
+    border-radius: 20px;
+    object-fit: cover;
+    margin-bottom: 10px;
+
+}
+h1{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.2rem;
+    color: rgb(129, 126, 126);
+}
